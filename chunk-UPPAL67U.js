@@ -1,0 +1,1 @@
+var e={reelMotion:!0,scrollNarrative:!0};function r(t=document.documentElement){return t.toggleAttribute("data-reel-motion",e.reelMotion),t.toggleAttribute("data-scroll-narrative",e.scrollNarrative),e}export{e as a,r as b};
